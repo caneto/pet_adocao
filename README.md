@@ -1,19 +1,54 @@
-# Pet Adoption App - Flutter
+# Ui Pet Adoção
 
-- Preview video: https://youtu.be/4CSpZXLTH2Y
-- Sponsor my work: https://www.patreon.com/sangvaleap
 
-- [My Patreon](https://www.patreon.com/sangvaleap)
-- [My Linkedin](https://www.linkedin.com/in/sangvaleap-vanny-353b25aa/)
-- [My Upwork](https://www.upwork.com/freelancers/~01482fe63544bbcb48)
-- [My Twitter](https://twitter.com/sangvaleap)
+<b>Fotos usando Emulador em pt-BR, para traduzir o conteudo</b>
+<table> 
+  <tr>
+    <td> 
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282732.png"/> 
+    </td>
+    <td>
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282736.png"/> 
+    </td>
+    <td> 
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282741.png"/> 
+    </td>
+  </tr>
+  
+  <tr>
+    <td> 
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282744.png"/> 
+    </td>
+    <td>
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282760.png"/> 
+    </td>
+    <td>
+      <img width="250" src="https://github.com/caneto/uimedicalapp/blob/main/screenshots/Screenshot_1670282773.png"/> 
+    </td>
+  </tr>
+</table> 
 
-- My Email: sangvaleap.vanny@gmail.com
+<br/>
 
-=> To access complete source code, please join [My Patreon](https://www.patreon.com/sangvaleap)
+## Tecnologia usada
+<b>Componentes </b>date_picker_timeline, i18n_extension.<br>
 
-<img width="600" alt="pet1" src="https://user-images.githubusercontent.com/86506519/151803963-bfd62a31-bd5e-4871-8b1a-af3c24d61e31.png">
-<img width="600" alt="pet2" src="https://user-images.githubusercontent.com/86506519/151803992-e1e1256e-c979-412b-975d-43dfb0eaf73e.png">
-<img width="600" alt="pet3" src="https://user-images.githubusercontent.com/86506519/151804001-9aead1e6-5cd3-4bf7-ac2f-f511dcdff05d.png">
-<img width="600" alt="pet4" src="https://user-images.githubusercontent.com/86506519/151804009-4c8bcd14-c2f3-47cf-b88f-eaf8d61ce9bb.png">
-<img width="600" alt="pet5" src="https://user-images.githubusercontent.com/86506519/151804013-2f4c68dc-4ffd-4246-a74f-25bb3b057aff.png">
+ - Flutter e flutter_localizations
+
+ - cached_network_image - 3.1.0
+ - carrosel_slider - 4.0.0
+ - google_fonts - 2.1.1
+ - badges - 2.0.2
+ - flutter_svg - 0.22.0
+ - glassmorphism_ui - 0.2.0
+ - i18n_extension - 6.0.0
+
+
+<b>Desenvolvido apenas para Android, e iOS.</b> - Testado exclusivamente em Android (Emulador). 
+
+<h2>📝 Licença</h2>
+
+<p>
+   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculator-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
+</p>
+
