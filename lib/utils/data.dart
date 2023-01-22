@@ -35,7 +35,7 @@ List pets = [
 
   {
     "image": "https://images.unsplash.com/photo-1583511655826-05700d52f4d9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Cheero",
+    "name": "Loke",
     "location": "Los Angeles, Usa",
     "is_favorited": true,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -58,7 +58,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1591768575198-88dac53fbd0a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Bossy",
+    "name": "Boris",
     "location": "Miami, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -80,7 +80,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Maxi",
+    "name": "Bud",
     "location": "Orlando, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -102,7 +102,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1588269845464-8993565cac3a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Coca",
+    "name": "Nico",
     "location": "Chicago, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -124,7 +124,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1556227702-d1e4e7b5c232?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Lazoo",
+    "name": "Nick",
     "location": "Nova Orleans, Usa",
     "is_favorited": true,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -134,7 +134,7 @@ List pets = [
     "owner_name": "Sangvaleap",
     "owner_photo": profile,
     "sex": "Male",
-    "age": "5 Months",
+    "age": "6 Months",
     "color": "Brown",
     "album" : [
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
@@ -146,7 +146,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1598875184988-5e67b1a874b8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Meido",
+    "name": "Max",
     "location": "São Francisco, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -156,7 +156,7 @@ List pets = [
     "owner_name": "Sangvaleap",
     "owner_photo": profile,
     "sex": "Male",
-    "age": "5 Months",
+    "age": "4 Months",
     "color": "Brown",
     "album" : [
       "https://images.unsplash.com/photo-1541364983171-a8ba01e95cfc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
@@ -168,7 +168,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1587764379873-97837921fd44?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Koko",
+    "name": "Buddy",
     "location": "Bostom, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",
@@ -190,7 +190,7 @@ List pets = [
   },
   {
     "image": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Zm9vZHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
-    "name": "Roka",
+    "name": "Bono",
     "location": "Filadélfia, Usa",
     "is_favorited": false,
     "description": "Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.",

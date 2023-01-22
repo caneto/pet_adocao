@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:glassmorphism_ui/glassmorphism_ui.dart';
 import 'package:pet_app/theme/color.dart';
+import 'package:pet_app/utils/i18n.dart';
 import 'package:pet_app/widgets/favorite_box.dart';
 
 import 'custom_image.dart';
@@ -72,16 +73,17 @@ class PetItem extends StatelessWidget {
                         Row(
                           children: [
                             Expanded(
-                                child: Text(
-                              data["name"],
-                              maxLines: 1,
-                              overflow: TextOverflow.ellipsis,
-                              style: TextStyle(
-                                color: glassTextColor,
-                                fontSize: 18,
-                                fontWeight: FontWeight.w600,
+                              child: Text(
+                                data["name"],
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: TextStyle(
+                                  color: glassTextColor,
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.w600,
+                                ),
                               ),
-                            )),
+                            ),
                             FavoriteBox(
                               isFavorited: data["is_favorited"],
                               onTap: onFavoriteTap,
@@ -92,7 +94,7 @@ class PetItem extends StatelessWidget {
                           height: 5,
                         ),
                         Text(
-                          data["location"],
+                          "${data["location"]}".i18n,
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
                           style:
@@ -106,15 +108,15 @@ class PetItem extends StatelessWidget {
                           children: [
                             getAttribute(
                               Icons.transgender,
-                              data["sex"],
+                              "${data["sex"]}".i18n,
                             ),
                             getAttribute(
                               Icons.color_lens_outlined,
-                              data["color"],
+                              "${data["color"]}".i18n,
                             ),
                             getAttribute(
                               Icons.query_builder,
-                              data["age"],
+                              "${data["age"]}".i18n,
                             ),
                           ],
                         ),
