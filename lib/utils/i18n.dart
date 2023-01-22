@@ -101,54 +101,6 @@ extension Localization on String {
       {
         "en_us": "Brown",
         "pt_br": "Marrom",
-      }+
-      {
-        "en_us": "Diphtheria",
-        "pt_br": "Difteria",
-      }+
-      {
-        "en_us": "Add appointment",
-        "pt_br": "Adicionar compromisso",
-      }+
-      {
-        "en_us": "DT(-GENERIC-)ST.112",
-        "pt_br": "DT(-GENÉRICO-)ST.112",
-      }+
-      {
-        "en_us": "Third time in clinic",
-        "pt_br": "Terceira vez na clínica",
-      }+
-      {
-        "en_us": "Septembar 25",
-        "pt_br": "25 de setembro",
-      }+
-      {
-        "en_us": "Septembar 26",
-        "pt_br": "26 de setembro",
-      }+
-      {
-        "en_us": "Septembar 28",
-        "pt_br": "28 de setembro",
-      }+
-      {
-        "en_us": "Septembar 22",
-        "pt_br": "22 de setembro",
-      }+
-      {
-        "en_us": "Schedule",
-        "pt_br": "Cronograma",
-      }+
-      {
-        "en_us": "DT(-generic-)st.112",
-        "pt_br": "DT(-genérico-)st.112",
-      }+
-      {
-        "en_us": "Tdap(Adacel)pt.4st89",
-        "pt_br": "Tdap (Adacel) pt. 4st89",
-      }+
-      {
-        "en_us": "Dr.Fiegel",
-        "pt_br": "Dr. Fiegel",
       };
 
   String get i18n => localize(this, _t);
